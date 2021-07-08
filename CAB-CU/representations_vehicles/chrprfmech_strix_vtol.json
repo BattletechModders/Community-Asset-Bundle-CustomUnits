@@ -67,5 +67,13 @@
 			"hideIfEmpty": false,
 			"Animators": { }
 		}
+	],
+	"Particles":[
+		{ "object_name":"jet stream_LB1", "location": "None" },
+		{ "object_name":"jet stream_LB2", "location": "None" },
+		{ "object_name":"jet stream_RB1", "location": "None" },
+		{ "object_name":"jet stream_RB2", "location": "None" },
+		{ "object_name":"jet stream_LF", "location": "None" },
+		{ "object_name":"jet stream_RF", "location": "None" }
 	]
 }
