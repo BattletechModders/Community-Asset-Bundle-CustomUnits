@@ -50,7 +50,7 @@
     },
     {
       "Name":"LightTurret",
-      "visuals": "turret_visuals",
+      "visuals": "front_turret_visuals",
       "attach": "front_turret_hardpoint",
       "hideIfEmpty": true,
       "type": "Turret",
