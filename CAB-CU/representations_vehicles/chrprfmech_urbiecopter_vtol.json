@@ -1,6 +1,6 @@
 {
   "Id": "chrprfmech_urbiecopter_vtol",
-  "PrefabBase":"urbiecopter",
+  "PrefabBase":"cuurbiecopter",
   "SourcePrefabIdentifier":"chrPrfMech_battlemasterBase-001",
   "SourcePrefabBase":"battlemaster",
   "ShaderSource":"chrPrfWeap_atlas_centertorso_laser_eh1",
