@@ -5,12 +5,13 @@
   "Author": "Transient74, KMISSION, bloodydoves",	
   "DependsOn":[ ],
 	"OptionallyDependsOn": [ "CustomUnits" ],
-	"CustomResourceTypes": ["CustomMechRepresentationDef"],	
+	"CustomResourceTypes": ["CustomMechRepresentationDef","CustomPrefabDef"],	
 	"Manifest": [
 		{ "Type": "SoundBankDef", "Path": "soundbanks" },
 		{ "Type": "AssetBundle", "Path": "assetbundles" },
 		{ "Type": "HardpointDataDef", "Path": "hardpoints" },
 		{ "Type": "CustomMechRepresentationDef", "Path": "representations" },
+		{ "Type": "CustomPrefabDef", "Path": "prefabs" },
 		
 	  { "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/chrprfmech_barghest.prefab", "AssetBundleName": "chrprfmech_barghest-001" },	
 	  { "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/barghest_body.prefab", "AssetBundleName": "chrprfmech_barghest-001" },	
