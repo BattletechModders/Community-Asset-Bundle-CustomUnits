@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_overlord_turret_mid_ballistic",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrprfweap_overlord_turret_mid_ballistic_turret_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

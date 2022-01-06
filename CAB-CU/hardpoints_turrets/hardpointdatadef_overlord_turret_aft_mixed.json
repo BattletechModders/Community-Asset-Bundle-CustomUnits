@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_overlord_turret_aft_mixed",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrprfweap_overlord_turret_aft_mixed_turret_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}
