@@ -5,7 +5,7 @@
             "location" : "turret",
             "weapons" : [
                 [
-                    "chrprfweap_overlord_turret_belt_mixed_turret_generic_eh1"
+                    "chrPrfWeap_overlord_turret_belt_mixed_turret_laser_eh1"
                 ]
             ],
             "blanks" : [
