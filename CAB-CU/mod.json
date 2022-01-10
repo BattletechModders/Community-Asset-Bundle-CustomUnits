@@ -545,6 +545,7 @@
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_redkite_vtol.prefab", "AssetBundleName": "chrprfmech_redkite-vtol" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_overlord_dropship.prefab", "AssetBundleName": "chrprfmech_overlord-dropship" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_overlord_blips.prefab", "AssetBundleName": "chrprfmech_overlord-dropship" },
 		
 		{ "Type": "AssetBundle", "Path": "assetbundles_turrets" },
 		{ "Type": "HardpointDataDef", "Path": "hardpoints_turrets" },
