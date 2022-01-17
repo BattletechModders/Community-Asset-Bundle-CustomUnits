@@ -14,7 +14,7 @@
       { "prefab": "chrprfweap_unnsvin_right_laser_2", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ] },
       { "prefab": "chrprfweap_unnsvin_right_ac_1", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
       { "prefab": "chrprfweap_unnsvin_right_ac_2", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
-      { "prefab": "chrprfweap_unnsvin_right_lrm_1", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1","fire2","fire3","fire4","fire5" ] },
+      { "prefab": "chrprfweap_unnsvin_right_lrm_1", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1","fire2","fire3","fire4","fire5" ] }
       
     ],
     "aliases": {
