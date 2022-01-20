@@ -595,6 +595,15 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_ac20_1.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" },		
 		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_gauss_1.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" },	
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_gauss_2.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_gauss_3.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" },	
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_gauss_4.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_arrow4_1.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_artillery_1.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" },	
+		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_lrm20_1.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_unnsvin_vtol.prefab", "AssetBundleName": "chrprfmech_unnsvin-vtol" },
