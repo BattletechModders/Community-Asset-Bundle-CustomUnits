@@ -29,7 +29,8 @@ License
 Creative Commons, Non-commercial
 
 Models:
-Red Kite
+Red Kite VTOL
+Kamakiri VTOL
 
 FrostRaptor
 License

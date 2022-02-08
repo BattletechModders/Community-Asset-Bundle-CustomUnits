@@ -621,7 +621,15 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_artillery_1.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" },	
 		
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_lrm20_1.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" }	
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_dropballturret_lrm20_1.prefab", "AssetBundleName": "chrprfmech_dropship_ball-turret" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_kamakiri_vtol.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_kamakiri_left_ppc.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_kamakiri_left_tbolt.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_kamakiri_right_ppc.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_kamakiri_right_tbolt.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" },		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_kamakiri_center_gauss.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" }
 
   ]
 }
