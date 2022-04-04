@@ -629,7 +629,47 @@
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_kamakiri_left_tbolt.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_kamakiri_right_ppc.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_kamakiri_right_tbolt.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" },		
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_kamakiri_center_gauss.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" }
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfweap_kamakiri_center_gauss.prefab", "AssetBundleName": "chrprfmech_kamakiri-vtol" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/chrprfmech_curifleman3base-001.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_leftarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_leftarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_leftarm_ac2_bh2.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_lefttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_lefttorso_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_lefttorso_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_lefttorso_ac2_bh2.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_lefttorso_ac2_bh3.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_lefttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_rightarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_rightarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_rightarm_ac2_bh2.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_righttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_righttorso_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_righttorso_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_righttorso_ac2_bh2.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_righttorso_ac2_bh3.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/rifleman3/chrprfweap_curifleman3_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_curifleman3base-001" }
 
   ]
 }

@@ -41,3 +41,4 @@ Overlord
 Overlord Turrets (all six)
 Dropship Ball Turret
 Unnsvin airship
+Rifleman III
