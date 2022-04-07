@@ -2,9 +2,17 @@ Changelog for CAB-CU
 
 -----------------------------------------------------
 
+1.5
+
+Added the Karr VTOL  
+
 1.4
 
 Added the Rifleman III
+
+1.3.1
+
+Added the Kamakiri VTOL
 
 1.3
 
