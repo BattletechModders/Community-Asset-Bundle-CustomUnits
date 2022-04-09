@@ -682,7 +682,24 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/karr/chrprfweap_karr_right_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_karr-vtol" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/karr/chrprfweap_karr_right_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_karr-vtol" },
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/karr/chrprfweap_karr_right_lrm10_mh3.prefab", "AssetBundleName": "chrprfmech_karr-vtol" }
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/karr/chrprfweap_karr_right_lrm10_mh3.prefab", "AssetBundleName": "chrprfmech_karr-vtol" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_horskr_vtol.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_lrm5_mh4.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_srm4_mh4.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_laser_eh1.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_laser_eh2.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_laser_eh3.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_laser_eh4.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" }
 
   ]
 }

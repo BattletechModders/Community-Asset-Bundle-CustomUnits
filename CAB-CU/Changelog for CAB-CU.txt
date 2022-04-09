@@ -2,6 +2,10 @@ Changelog for CAB-CU
 
 -----------------------------------------------------
 
+1.6
+
+Added the Horskr
+
 1.5
 
 Added the Karr VTOL  
