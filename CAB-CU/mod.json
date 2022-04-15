@@ -699,7 +699,9 @@
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_laser_eh1.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_laser_eh2.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_laser_eh3.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_laser_eh4.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" }
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_laser_eh4.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_union_dropship.prefab", "AssetBundleName": "chrprfmech_union-dropship" }
 
   ]
 }

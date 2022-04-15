@@ -2,6 +2,10 @@ Changelog for CAB-CU
 
 -----------------------------------------------------
 
+1.7
+
+Added the Union Dropship
+
 1.6
 
 Added the Horskr
