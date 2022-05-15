@@ -2,6 +2,10 @@ Changelog for CAB-CU
 
 -----------------------------------------------------
 
+1.8
+
+Added the Sirocco 
+
 1.7
 
 Added the Union Dropship

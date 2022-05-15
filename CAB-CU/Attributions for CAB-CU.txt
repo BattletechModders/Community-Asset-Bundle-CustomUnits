@@ -45,6 +45,7 @@ Unnsvin airship
 Rifleman III
 Horskr
 Union Dropship
+Sirocco
 
 FrostRaptor and Tex of the Black Pants Legion
 License

@@ -702,7 +702,47 @@
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/horskr/chrprfweap_horskr_center_laser_eh4.prefab", "AssetBundleName": "chrprfmech_horskr-vtol" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_union_dropship.prefab", "AssetBundleName": "chrprfmech_union-dropship" },
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_union_blips.prefab", "AssetBundleName": "chrprfmech_union-dropship" }
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfmech_union_blips.prefab", "AssetBundleName": "chrprfmech_union-dropship" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfmech_cusiroccobase-001.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/sirocco_body.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfmech_cusirocco_front.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfmech_cusirocco_rear.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_center_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_center_2.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_center_3.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+				
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_artillery_left_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_ac10_left_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_ac20_left_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_lrm10_left_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_lrm20_left_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_srm6_left_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_lrm10_left_2.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_lrm20_left_2.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_srm6_left_2.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_left_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_left_2.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_left_3.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+			
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_artillery_right_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_ac10_right_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_ac20_right_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_lrm10_right_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_lrm20_right_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_srm6_right_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_lrm10_right_2.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_lrm20_right_2.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_srm6_right_2.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_right_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_right_2.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_right_3.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_head_1.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_head_2.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/sirocco/chrprfweap_cusirocco_laser_head_3.prefab", "AssetBundleName": "chrprfmech_cusiroccobase-001" }
 
   ]
 }
