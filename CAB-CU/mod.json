@@ -751,20 +751,24 @@
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_leftarm_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_leftarm_ppc_eh4.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_leftarm_ppc_eh5.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_leftarm_laser_eh4.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_leftarm_laser_eh5.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },		
 		
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_ppc_eh4.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_ppc_eh5.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh4.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh4.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh5.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" }
 
   ]
 }
