@@ -1,5 +1,5 @@
 {
-  "ID": "hardpointdatadef_scorpion",
+  "ID": "hardpointdatadef_cuscorpion",
   "CustomHardpoints": {
     "prefabs": [
       {"prefab": "chrprfweap_scorpion_ac2", "attachType": "Turret", "attachOverride":"MainTurret", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
