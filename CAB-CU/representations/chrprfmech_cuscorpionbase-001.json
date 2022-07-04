@@ -1,6 +1,6 @@
 {
-  "Id": "chrprfmech_scorpionbase-001",
-  "PrefabBase":"scorpion",
+  "Id": "chrprfmech_cuscorpionbase-001",
+  "PrefabBase":"cuscorpion",
   "SourcePrefabIdentifier":"chrPrfMech_battlemasterBase-001",
   "SourcePrefabBase":"battlemaster",
   "ApplyType": "MoveBone",
