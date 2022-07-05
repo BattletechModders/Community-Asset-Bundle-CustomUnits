@@ -1,11 +1,6 @@
 {
-<<<<<<<< HEAD:CAB-CU/representations/chrprfmech_scorpionmechbase-001.json
   "Id": "chrprfmech_scorpionmechbase-001",
   "PrefabBase":"scorpionmech",
-========
-  "Id": "chrprfmech_cuscorpionbase-001",
-  "PrefabBase":"cuscorpion",
->>>>>>>> 8328fd46c9721598d6f6a6813fe6380c3c401d5d:CAB-CU/representations/chrprfmech_cuscorpionbase-001.json
   "SourcePrefabIdentifier":"chrPrfMech_battlemasterBase-001",
   "SourcePrefabBase":"battlemaster",
   "ApplyType": "MoveBone",
