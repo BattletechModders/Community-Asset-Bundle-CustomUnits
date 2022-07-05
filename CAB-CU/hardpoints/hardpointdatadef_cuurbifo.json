@@ -24,7 +24,7 @@
 		{"prefab": "chrprfweap_cuurbifo_rightarm_laser_eh2", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": ["fire1"] },
 		{"prefab": "chrprfweap_cuurbifo_rightarm_laser_eh3", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": ["fire1"] },
 		{"prefab": "chrprfweap_cuurbifo_rightarm_laser_eh4", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": ["fire1"] },
-		{"prefab": "chrprfweap_cuurbifo_rightarm_laser_eh5", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": ["fire1"] },		
+		{"prefab": "chrprfweap_cuurbifo_rightarm_laser_eh5", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": ["fire1"] }		
     ],
     "aliases": {
 		"chrPrfWeap_cuurbifo_leftarm_gauss_bh1": { "location": "leftarm", "prefab": "chrprfweap_cuurbifo_leftarm_gauss_bh1" },
