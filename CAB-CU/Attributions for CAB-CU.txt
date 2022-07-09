@@ -47,6 +47,7 @@ Horskr
 Union Dropship
 Sirocco
 Urbdentified Flying Object
+Ishtar
 
 FrostRaptor and Tex of the Black Pants Legion
 License

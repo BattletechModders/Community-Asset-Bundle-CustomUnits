@@ -778,7 +778,29 @@
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh4.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh5.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/urbifo/chrprfweap_cuurbifo_rightarm_laser_eh5.prefab", "AssetBundleName": "chrprfmech_cuurbifobase-001" },
+		
+				{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfmech_ishtar_tank.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_center_ams.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_left_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_left_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_left_lrm15.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_right_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_right_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_right_lrm15.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_turret_ac10_left.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_turret_ac20_left.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_turret_lrm15_left.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_turret_ams_left.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_turret_ac10_right.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_turret_ac20_right.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },	
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_turret_lrm15_right.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ishtar/chrprfweap_ishtar_turret_ams_right.prefab", "AssetBundleName": "chrprfmech_ishtar-tank" }
 
   ]
 }
