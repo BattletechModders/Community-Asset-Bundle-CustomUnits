@@ -918,7 +918,54 @@
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/flashman/chrprfweap_flashman_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_cuflashmanbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/flashman/chrprfweap_flashman_rightarm_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_cuflashmanbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/flashman/chrprfweap_flashman_rightarm_ppc_eh4.prefab", "AssetBundleName": "chrprfmech_cuflashmanbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/flashman/chrprfweap_flashman_rightarm_ppc_eh5.prefab", "AssetBundleName": "chrprfmech_cuflashmanbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/flashman/chrprfweap_flashman_rightarm_ppc_eh5.prefab", "AssetBundleName": "chrprfmech_cuflashmanbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfmech_markolab_tank.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_maingun_laser.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_maingun_missile.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_maingun_ppc.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_maingun_railgun.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_ams_ah1.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_ams_ah2.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_ams_ah3.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_ams_ah4.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_laser_eh1.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_laser_eh2.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_laser_eh3.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_laser_eh4.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_mg_bh1.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_mg_bh2.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_mg_bh3.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_mg_bh4.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_left_srm4_mh4.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_ams_ah1.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_ams_ah2.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_ams_ah3.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_ams_ah4.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_laser_eh1.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_laser_eh2.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_laser_eh3.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_laser_eh4.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_mg_bh1.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_mg_bh2.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_mg_bh3.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_mg_bh4.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_srm4_mh4.prefab", "AssetBundleName": "chrprfmech_markolab-tank" }
 
   ]
 }

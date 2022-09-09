@@ -49,6 +49,7 @@ Sirocco
 Urbdentified Flying Object
 Ishtar
 Flashman
+Markolab Tank
 
 FrostRaptor and Tex of the Black Pants Legion
 License
