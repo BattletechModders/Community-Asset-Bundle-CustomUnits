@@ -965,7 +965,44 @@
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_srm4_mh4.prefab", "AssetBundleName": "chrprfmech_markolab-tank" }
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/markolab/chrprfweap_markolab_st_right_srm4_mh4.prefab", "AssetBundleName": "chrprfmech_markolab-tank" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/chrprfmech_cugulonbase-001.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_flamer_eh3.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_flamer_eh4.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_fluid_eh2.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_fluid_eh3.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_fluid_eh4.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_laser_eh4.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_mg_bh3.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_torso_mg_bh4.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_shoulder_ac5.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_shoulder_rac2.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_shoulder_gauss.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_shoulder_lrm5.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_shoulder_srm4.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_flamer_eh3.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_fluid_eh1.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_fluid_eh2.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_fluid_eh3.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_mg_bh3.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_rightarm_rl10.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_rightarm_drill.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" }
 
   ]
 }
