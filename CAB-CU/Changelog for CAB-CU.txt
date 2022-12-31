@@ -2,6 +2,10 @@ Changelog for CAB-CU
 
 -----------------------------------------------------
 
+2.3
+
+ADDED THE MOTHER-FUCKIN TARANTULA
+
 2.2
 
 Added the Markolab Tank

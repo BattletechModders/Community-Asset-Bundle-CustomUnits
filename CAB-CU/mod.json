@@ -1002,7 +1002,20 @@
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_leftarm_mg_bh3.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_rightarm_rl10.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },		
-		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_rightarm_drill.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/gulon/chrprfweap_gulon_rightarm_drill.prefab", "AssetBundleName": "chrprfmech_cugulonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfmech_cutarantulabase-001.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_flamer_left.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_flamer_right.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_laser_left.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_laser_right.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_gauss_left.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_gauss_right.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_ppc_left.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_ppc_right.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_srm2.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_lrm5.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },	
 
   ]
 }

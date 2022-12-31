@@ -51,6 +51,7 @@ Ishtar
 Flashman
 Markolab Tank
 Gulon
+Tarantula
 
 FrostRaptor and Tex of the Black Pants Legion
 License
