@@ -1015,7 +1015,7 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_ppc_left.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_ppc_right.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_srm2.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_lrm5.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/tarantula/chrprfweap_cutarantula_lrm5.prefab", "AssetBundleName": "chrprfmech_cutarantulabase-001" }	
 
   ]
 }
