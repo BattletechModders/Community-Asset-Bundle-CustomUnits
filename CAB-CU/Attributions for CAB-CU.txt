@@ -41,3 +41,7 @@ Tarantula
 FrostRaptor and Tex of the Black Pants Legion
 Content:
 Unsinkable Sam & Van Zandt images on the Union Dropship
+
+FrostRaptor and LtShade
+Models:
+Dragoon (Frost import, Shade model and textures)
