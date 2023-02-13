@@ -151,7 +151,7 @@
 		{"prefab": "chrprfweap_dragoon_righttorso_uac5_bh1", "attachType": "Body", "attachOverride":"WeaponMount_Center", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3" ] },
 		{"prefab": "chrprfweap_dragoon_righttorso_gauss_bh1", "attachType": "Body", "attachOverride":"WeaponMount_Center", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
 		{"prefab": "chrprfweap_dragoon_righttorso_artillery_bh1", "attachType": "Body", "attachOverride":"WeaponMount_Center", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
-		{"prefab": "chrprfweap_dragoon_righttorso_mg_bh1", "attachType": "Body", "attachOverride":"WeaponMount_Center", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4" ] },
+		{"prefab": "chrprfweap_dragoon_righttorso_mg_bh1", "attachType": "Body", "attachOverride":"WeaponMount_Center", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4" ] }
 		
     ],
     "aliases": {
@@ -271,7 +271,7 @@
 		"chrPrfWeap_dragoon_righttorso_uac5_bh1": { "location": "righttorso", "prefab": "chrprfweap_dragoon_righttorso_uac5_bh1" },
 		"chrPrfWeap_dragoon_righttorso_gauss_bh1": { "location": "righttorso", "prefab": "chrprfweap_dragoon_righttorso_gauss_bh1" },
 		"chrPrfWeap_dragoon_righttorso_artillery_bh1": { "location": "righttorso", "prefab": "chrprfweap_dragoon_righttorso_artillery_bh1" },
-		"chrPrfWeap_dragoon_righttorso_mg_bh1": { "location": "righttorso", "prefab": "chrprfweap_dragoon_righttorso_mg_bh1" },
+		"chrPrfWeap_dragoon_righttorso_mg_bh1": { "location": "righttorso", "prefab": "chrprfweap_dragoon_righttorso_mg_bh1" }
 
 
     }
