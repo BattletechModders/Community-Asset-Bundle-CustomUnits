@@ -45,3 +45,4 @@ Unsinkable Sam & Van Zandt images on the Union Dropship
 FrostRaptor and LtShade
 Models:
 Dragoon (Frost import, Shade model and textures)
+Great Turtle (Frost import and model, Shade textures)

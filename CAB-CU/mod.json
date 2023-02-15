@@ -1135,7 +1135,58 @@
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/dragoon/chrprfweap_dragoon_righttorso_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_cudragoonbase-001" },		
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/dragoon/chrprfweap_dragoon_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_cudragoonbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/dragoon/chrprfweap_dragoon_righttorso_artillery_bh1.prefab", "AssetBundleName": "chrprfmech_cudragoonbase-001" },		
-		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/dragoon/chrprfweap_dragoon_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cudragoonbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/dragoon/chrprfweap_dragoon_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cudragoonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/chrprfmech_cugreatturtlebase-001.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_upper_gauss.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_lower_gauss.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_upper_ac5.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_lower_ac5.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_upper_rac5.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_lower_rac5.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_upper_ppc.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_lower_ppc.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_lower_laser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_mid_laser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_upper_laser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_upper_largelaser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_lower_largelaser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_upper_srm6.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_lower_srm6.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_upper_lrm15.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_lefttorso_lower_lrm15.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+			
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_gauss.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_ac5.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_rac5.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_largelaser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_ppc.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_srm6.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_lrm15.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_upper_gauss.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_lower_gauss.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_upper_ac5.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_lower_ac5.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_upper_rac5.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_lower_rac5.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_upper_ppc.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_lower_ppc.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_lower_laser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_mid_laser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_upper_laser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_upper_largelaser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_lower_largelaser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_upper_srm6.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_lower_srm6.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_upper_lrm15.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_righttorso_lower_lrm15.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_railgun.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_artillery.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_head_laser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" }
 
   ]
 }
