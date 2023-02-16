@@ -127,7 +127,7 @@
 		"chrPrfWeap_cugreatturtle_righttorso_lrm15_mh2": { "location": "righttorso", "prefab": "chrprfweap_cugreatturtle_righttorso_lower_lrm15" },	
 
 		"chrPrfWeap_cugreatturtle_lefttorso_railgun_eh1": { "location": "lefttorso", "prefab": "chrprfweap_cugreatturtle_centertorso_railgun" },
-		"chrPrfWeap_cugreatturtle_righttorso_artillery_bh1": { "location": "lefttorso", "prefab": "chrprfweap_cugreatturtle_centertorso_artillery" },
+		"chrPrfWeap_cugreatturtle_righttorso_artillery_bh1": { "location": "righttorso", "prefab": "chrprfweap_cugreatturtle_centertorso_artillery" },
 
 		"chrPrfWeap_cugreatturtle_head_laser_eh1": { "location": "head", "prefab": "chrprfweap_cugreatturtle_head_laser" }
     }
