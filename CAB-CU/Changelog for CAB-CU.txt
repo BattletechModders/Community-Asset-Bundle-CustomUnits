@@ -2,6 +2,10 @@ Changelog for CAB-CU
 
 -----------------------------------------------------
 
+2.6
+
+Added the Kiso ContructionMech
+
 2.5
 
 Added the Great Turtle

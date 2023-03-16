@@ -46,3 +46,14 @@ FrostRaptor and LtShade
 Models:
 Dragoon (Frost import, Shade model and textures)
 Great Turtle (Frost import and model, Shade textures)
+Kiso Constructionmech (Frost import/textures/animations, Shade model)
+
+Lukkar on DeviantArt
+Assets:
+https://www.deviantart.com/lukkar/art/Skywind-fresco-470893972 
+
+License:
+Used under Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License
+
+Fair Use Provisions:
+Various Bob the Builder line-art on the Kiso. All rights reserved to the original rights holders.

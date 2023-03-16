@@ -1186,7 +1186,84 @@
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_railgun.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_centertorso_artillery.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_head_laser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/greatturtle/chrprfweap_cugreatturtle_head_laser.prefab", "AssetBundleName": "chrprfmech_cugreatturtlebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/chrprfmech_cukisobase-001.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_centertorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_centertorso_machinegun_bh1.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_centertorso_machinegun_bh2.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_leftarm_ac5.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_leftarm_gauss.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_leftarm_ppc.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_leftarm_uac5.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_ac5.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_ac20.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_uac5.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_artillery.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_gauss.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_mg.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_laser.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_flamer.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_ppc.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_lrm10.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_lrm20.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_srm6.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_arrow.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_shoulder_lrm10.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_shoulder_lrm20.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_shoulder_srm6.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_inner_srm6.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_lower_flamer_eh3.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_lower_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_lower_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_leftarm_melee_chainsaw.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_leftarm_melee_piledriver.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_lefttorso_upper_crane.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_rightarm_ac5.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_rightarm_gauss.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_rightarm_ppc.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_rightarm_uac5.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_ac5.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_ac20.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_uac5.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_artillery.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_gauss.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_mg.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_laser.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_flamer.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_ppc.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_lrm10.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_lrm20.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_srm6.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_arrow.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_shoulder_lrm10.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_shoulder_lrm20.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_shoulder_srm6.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_inner_srm6.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_lower_flamer_eh3.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_lower_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_lower_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_rightarm_melee_chainsaw.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_rightarm_melee_piledriver.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/kiso/kiso_righttorso_upper_crane.prefab", "AssetBundleName": "chrprfmech_cukisobase-001" }
 
   ]
 }
