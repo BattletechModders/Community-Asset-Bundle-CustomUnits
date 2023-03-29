@@ -20,6 +20,7 @@ Models:
 Red Kite VTOL
 Kamakiri VTOL
 Karr VTOL
+Harpagos Quad
 
 FrostRaptor
 Models:
