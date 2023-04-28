@@ -1,7 +1,7 @@
 {
   "Id": "chrprfmech_cuironcladbase-001",
   "PrefabBase":"cuironclad",
-  "SourcePrefabIdentifier":"chrPrfMech_battlemaserBase-001",
+  "SourcePrefabIdentifier":"chrPrfMech_battlemasterBase-001",
   "SourcePrefabBase":"battlemaster",
   "ApplyType": "MoveBone",
   "SupressAllMeshes": true,
