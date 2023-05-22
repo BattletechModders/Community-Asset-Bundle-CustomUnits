@@ -14,7 +14,6 @@
 		{ "Type": "CustomPrefabDef", "Path": "prefabs" },
 		
 	  { "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/chrprfmech_scorpionmechbase-001.prefab", "AssetBundleName": "chrprfmech_scorpion-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/chrprfweap_scorpionmech_ac2.prefab", "AssetBundleName": "chrprfmech_scorpion-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/chrprfweap_scorpionmech_ac5.prefab", "AssetBundleName": "chrprfmech_scorpion-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/chrprfweap_scorpionmech_gauss.prefab", "AssetBundleName": "chrprfmech_scorpion-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/components/prefabs/chrprfweap_scorpionmech_large_laser.prefab", "AssetBundleName": "chrprfmech_scorpion-001" },
