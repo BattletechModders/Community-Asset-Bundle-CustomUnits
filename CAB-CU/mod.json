@@ -1392,7 +1392,54 @@
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/verfolger/chrprfweap_verfolger_righttorso_lbx10_bh1.prefab", "AssetBundleName": "chrprfmech_cuverfolgerbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/verfolger/chrprfweap_verfolger_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_cuverfolgerbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/verfolger/chrprfweap_verfolger_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_cuverfolgerbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/verfolger/chrprfweap_verfolger_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cuverfolgerbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/verfolger/chrprfweap_verfolger_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cuverfolgerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfmech_cuvolkhbase-001.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_leftarm_claws_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_leftarm_mace_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_leftarm_katar_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_leftarm_lirpa_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_leftarm_sword_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_leftarm_lance_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_leftarm_trident_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_lefttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_lefttorso_tbolt_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_lefttorso_rac5_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_laser_eh4.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_ppc_eh4.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_mg_bh2.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_mg_bh3.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_head_mg_bh4.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_rightarm_claws_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_rightarm_mace_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_rightarm_katar_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_rightarm_lirpa_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_rightarm_sword_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_rightarm_lance_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_rightarm_trident_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_tbolt_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_rac5_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" }
 
   ]
 }

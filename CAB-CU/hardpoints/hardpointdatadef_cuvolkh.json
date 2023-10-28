@@ -1,0 +1,164 @@
+{
+  "ID": "hardpointdatadef_cuvolkh",
+  "CustomHardpoints": {
+    "prefabs": [
+	
+		{"prefab": "chrprfweap_volkh_leftarm_claws_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_leftarm_mace_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_leftarm_katar_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_leftarm_lirpa_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_leftarm_sword_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_leftarm_lance_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_leftarm_trident_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_leftarm_gauss_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+
+		{"prefab": "chrprfweap_volkh_lefttorso_srm6_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5", "fire6" ] },
+		{"prefab": "chrprfweap_volkh_lefttorso_srm4_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3", "fire4" ] },
+		{"prefab": "chrprfweap_volkh_lefttorso_srm2_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2" ] },
+		{"prefab": "chrprfweap_volkh_lefttorso_lrm5_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5" ] },
+		{"prefab": "chrprfweap_volkh_lefttorso_tbolt_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_volkh_lefttorso_rac5_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3" ] },
+
+		{"prefab": "chrprfweap_volkh_head_laser_eh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_volkh_head_laser_eh2", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_volkh_head_laser_eh3", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_volkh_head_laser_eh4", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_volkh_head_ppc_eh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_volkh_head_ppc_eh2", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_volkh_head_ppc_eh3", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_volkh_head_ppc_eh4", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_volkh_head_mg_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5", "fire6" ] },
+		{"prefab": "chrprfweap_volkh_head_mg_bh2", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1",
+			"emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5", "fire6" ] },
+		{"prefab": "chrprfweap_volkh_head_mg_bh3", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1",
+			"emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5", "fire6" ] },
+		{"prefab": "chrprfweap_volkh_head_mg_bh4", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1",
+			"emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5", "fire6" ] },
+
+		{"prefab": "chrprfweap_volkh_rightarm_claws_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_rightarm_mace_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_rightarm_katar_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_rightarm_lirpa_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_rightarm_sword_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_rightarm_lance_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_rightarm_trident_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1" },
+		{"prefab": "chrprfweap_volkh_rightarm_gauss_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+
+		{"prefab": "chrprfweap_volkh_righttorso_srm6_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5", "fire6" ] },
+		{"prefab": "chrprfweap_volkh_righttorso_srm4_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3", "fire4" ] },
+		{"prefab": "chrprfweap_volkh_righttorso_srm2_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2" ] },
+		{"prefab": "chrprfweap_volkh_righttorso_lrm5_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5" ] },
+		{"prefab": "chrprfweap_volkh_righttorso_tbolt_mh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_volkh_righttorso_rac5_bh1", "attachType": "Body", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3" ] }
+    ],
+    "aliases": {
+
+		"chrPrfWeap_cuvolkh_leftarm_claws_bh1": { "location": "leftarm", "prefab": "chrprfweap_volkh_leftarm_claws_bh1" },
+		"chrPrfWeap_cuvolkh_leftarm_mace_bh1": { "location": "leftarm", "prefab": "chrprfweap_volkh_leftarm_mace_bh1" },
+		"chrPrfWeap_cuvolkh_leftarm_katar_bh1": { "location": "leftarm", "prefab": "chrprfweap_volkh_leftarm_katar_bh1" },
+		"chrPrfWeap_cuvolkh_leftarm_lirpa_bh1": { "location": "leftarm", "prefab": "chrprfweap_volkh_leftarm_lirpa_bh1" },
+		"chrPrfWeap_cuvolkh_leftarm_sword_bh1": { "location": "leftarm", "prefab": "chrprfweap_volkh_leftarm_sword_bh1" },
+		"chrPrfWeap_cuvolkh_leftarm_lance_bh1": { "location": "leftarm", "prefab": "chrprfweap_volkh_leftarm_lance_bh1" },
+		"chrPrfWeap_cuvolkh_leftarm_trident_bh1": { "location": "leftarm", "prefab": "chrprfweap_volkh_leftarm_trident_bh1" },
+		"chrPrfWeap_cuvolkh_leftarm_gauss_bh1": { "location": "leftarm", "prefab": "chrprfweap_volkh_leftarm_gauss_bh1" },
+		
+		"chrPrfWeap_cuvolkh_lefttorso_srm6_mh1": { "location": "lefttorso", "prefab": "chrprfweap_volkh_lefttorso_srm6_mh1" },	
+		"chrPrfWeap_cuvolkh_lefttorso_srm4_mh1": { "location": "lefttorso", "prefab": "chrprfweap_volkh_lefttorso_srm4_mh1" },	
+		"chrPrfWeap_cuvolkh_lefttorso_srm2_mh1": { "location": "lefttorso", "prefab": "chrprfweap_volkh_lefttorso_srm2_mh1" },	
+		"chrPrfWeap_cuvolkh_lefttorso_lrm5_mh1": { "location": "lefttorso", "prefab": "chrprfweap_volkh_lefttorso_lrm5_mh1" },	
+		"chrPrfWeap_cuvolkh_lefttorso_arrow_mh1": { "location": "lefttorso", "prefab": "chrprfweap_volkh_lefttorso_tbolt_mh1" },	
+		"chrPrfWeap_cuvolkh_lefttorso_ac5_bh1": { "location": "lefttorso", "prefab": "chrprfweap_volkh_lefttorso_rac5_bh1" },	
+		
+		"chrPrfWeap_cuvolkh_head_laser_eh1": { "location": "head", "prefab": "chrprfweap_volkh_head_laser_eh1" },
+		"chrPrfWeap_cuvolkh_head_laser_eh2": { "location": "head", "prefab": "chrprfweap_volkh_head_laser_eh2" },
+		"chrPrfWeap_cuvolkh_head_laser_eh3": { "location": "head", "prefab": "chrprfweap_volkh_head_laser_eh3" },
+		"chrPrfWeap_cuvolkh_head_laser_eh4": { "location": "head", "prefab": "chrprfweap_volkh_head_laser_eh4" },
+		"chrPrfWeap_cuvolkh_head_ppc_eh1": { "location": "head", "prefab": "chrprfweap_volkh_head_ppc_eh1" },
+		"chrPrfWeap_cuvolkh_head_ppc_eh2": { "location": "head", "prefab": "chrprfweap_volkh_head_ppc_eh2" },
+		"chrPrfWeap_cuvolkh_head_ppc_eh3": { "location": "head", "prefab": "chrprfweap_volkh_head_ppc_eh3" },
+		"chrPrfWeap_cuvolkh_head_ppc_eh4": { "location": "head", "prefab": "chrprfweap_volkh_head_ppc_eh4" },
+		"chrPrfWeap_cuvolkh_head_mg_bh1": { "location": "head", "prefab": "chrprfweap_volkh_head_mg_bh1" },
+		"chrPrfWeap_cuvolkh_head_mg_bh2": { "location": "head", "prefab": "chrprfweap_volkh_head_mg_bh2" },
+		"chrPrfWeap_cuvolkh_head_mg_bh3": { "location": "head", "prefab": "chrprfweap_volkh_head_mg_bh3" },
+		"chrPrfWeap_cuvolkh_head_mg_bh4": { "location": "head", "prefab": "chrprfweap_volkh_head_mg_bh4" },
+		
+		"chrPrfWeap_cuvolkh_rightarm_claws_bh1": { "location": "rightarm", "prefab": "chrprfweap_volkh_rightarm_claws_bh1" },
+		"chrPrfWeap_cuvolkh_rightarm_mace_bh1": { "location": "rightarm", "prefab": "chrprfweap_volkh_rightarm_mace_bh1" },
+		"chrPrfWeap_cuvolkh_rightarm_katar_bh1": { "location": "rightarm", "prefab": "chrprfweap_volkh_rightarm_katar_bh1" },
+		"chrPrfWeap_cuvolkh_rightarm_lirpa_bh1": { "location": "rightarm", "prefab": "chrprfweap_volkh_rightarm_lirpa_bh1" },
+		"chrPrfWeap_cuvolkh_rightarm_sword_bh1": { "location": "rightarm", "prefab": "chrprfweap_volkh_rightarm_sword_bh1" },
+		"chrPrfWeap_cuvolkh_rightarm_lance_bh1": { "location": "rightarm", "prefab": "chrprfweap_volkh_rightarm_lance_bh1" },
+		"chrPrfWeap_cuvolkh_rightarm_trident_bh1": { "location": "rightarm", "prefab": "chrprfweap_volkh_rightarm_trident_bh1" },
+		"chrPrfWeap_cuvolkh_rightarm_gauss_bh1": { "location": "rightarm", "prefab": "chrprfweap_volkh_rightarm_gauss_bh1" },
+		
+		"chrPrfWeap_cuvolkh_righttorso_srm6_mh1": { "location": "righttorso", "prefab": "chrprfweap_volkh_righttorso_srm6_mh1" },	
+		"chrPrfWeap_cuvolkh_righttorso_srm4_mh1": { "location": "righttorso", "prefab": "chrprfweap_volkh_righttorso_srm4_mh1" },	
+		"chrPrfWeap_cuvolkh_righttorso_srm2_mh1": { "location": "righttorso", "prefab": "chrprfweap_volkh_righttorso_srm2_mh1" },	
+		"chrPrfWeap_cuvolkh_righttorso_lrm5_mh1": { "location": "righttorso", "prefab": "chrprfweap_volkh_righttorso_lrm5_mh1" },	
+		"chrPrfWeap_cuvolkh_righttorso_arrow_mh1": { "location": "righttorso", "prefab": "chrprfweap_volkh_righttorso_tbolt_mh1" },	
+		"chrPrfWeap_cuvolkh_righttorso_ac5_bh1": { "location": "righttorso", "prefab": "chrprfweap_volkh_righttorso_rac5_bh1" }	
+		
+    }
+  },  
+  "HardpointData": [
+      {
+      "location": "head",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "lefttorso",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "righttorso",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "centertorso",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },	
+    {
+      "location": "leftarm",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "rightarm",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    }
+  ]
+}
