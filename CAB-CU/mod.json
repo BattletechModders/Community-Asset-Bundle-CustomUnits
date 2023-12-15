@@ -1439,7 +1439,66 @@
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_tbolt_mh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_rac5_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/volkh/chrprfweap_volkh_righttorso_rac5_bh1.prefab", "AssetBundleName": "chrprfmech_cuvolkhbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfmech_cuslagmaidenbase-001.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_leftarm_spikes_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_tbolt5_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_laser_eh4.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_mg_bh3.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_lefttorso_mg_bh4.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_head_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_head_mg_bh2.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_blank_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_gauss_eh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_laser_eh4.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_laser_eh5.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_flamer_eh3.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_flamer_eh4.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_flamer_eh5.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_mg_bh3.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_mg_bh4.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_rightarm_mg_bh5.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_tbolt5_mh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_laser_eh4.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_mg_bh3.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_mg_bh4.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" }
 
   ]
 }
