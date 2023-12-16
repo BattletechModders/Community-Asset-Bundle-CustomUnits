@@ -71,7 +71,7 @@
     ],
     "aliases": {
 		"chrPrfWeap_cuslagmaiden_leftarm_ac10_bh1": { "location": "leftarm", "prefab": "chrprfweap_slagmaiden_leftarm_ac10_bh1" },
-		"chrPrfWeap_cuslagmaiden_leftarm_spikes_bh1": { "location": "leftarm", "prefab": "chrprfweap_slagmaiden_leftarm_spikes_mh1" },
+		"chrPrfWeap_cuslagmaiden_leftarm_spikes_mh2": { "location": "leftarm", "prefab": "chrprfweap_slagmaiden_leftarm_spikes_mh1" },
 		
 		"chrPrfWeap_cuslagmaiden_lefttorso_srm2_mh1": { "location": "lefttorso", "prefab": "chrprfweap_slagmaiden_righttorso_srm2_mh1" },
 		"chrPrfWeap_cuslagmaiden_lefttorso_srm4_mh1": { "location": "lefttorso", "prefab": "chrprfweap_slagmaiden_righttorso_srm4_mh1" },
