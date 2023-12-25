@@ -1498,7 +1498,48 @@
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_mg_bh3.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_mg_bh4.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/slagmaiden/chrprfweap_slagmaiden_righttorso_mg_bh4.prefab", "AssetBundleName": "chrprfmech_cuslagmaidenbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfmech_cuambassadorbase-001.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_head_satellite_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_leftarm_narc_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_leftarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_leftarm_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_leftarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_lefttorso_narc_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_lefttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_righttorso_narc_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_rightarm_narc_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_rightarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_rightarm_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_rightarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" }
 
   ]
 }

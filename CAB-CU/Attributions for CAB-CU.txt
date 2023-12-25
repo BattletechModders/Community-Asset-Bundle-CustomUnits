@@ -43,6 +43,7 @@ Tarantula
 Ironclad
 Verfolger
 Slagmaiden
+Ambassador
 
 FrostRaptor and Tex of the Black Pants Legion
 Content:
