@@ -1,0 +1,87 @@
+{
+	"Id": "chrprfmech_rattler_track_left_front-turret",
+	"PrefabBase": "curattler_track_left_front",
+	"SourcePrefabIdentifier": "chrPrfMech_battlemasterBase-001",
+	"SourcePrefabBase": "battlemaster",
+	"ShaderSource": "chrPrfWeap_atlas_centertorso_laser_eh1",
+	"BlipSource": "chrPrfVhcl_striker",
+	"ApplyType": "MoveBone",
+	"SupressAllMeshes": true,
+	"persistentAudioStart": "",
+	"persistentAudioStop": "",
+	"Animators": [ "rattler_turret_body" ],
+	"TwistAnimators": [ "rattler_turret_body" ],
+	"OnDestroy": {
+		"SuppressCombinedMesh": true,
+		"SuppressWeaponRepresentations": true,
+		"CollapseAllDestructables": true
+	},
+	"Destructibles": {
+		"Turret": {
+			"Name": "rattler_turret_destructable",
+			"wholeObj": "rattler_turret_whole",
+			"destroyedObj": "rattler_turret_destroyed"
+		}
+	},
+	"CustomMouseReceiver": [ "normal_h" ],
+	"Attaches": {
+		"Turret": "weapon_attach_center",
+		"Left": "drop_ball_turret_body",
+		"Right": "drop_ball_turret_body",
+		"Front": "drop_ball_turret_body",
+		"Rear": "drop_ball_turret_body"
+	},
+	"vfxTransforms": {
+		"Turret": "vfxTurretTransform",
+		"Front": "vfxFrontTransform",
+		"Rear": "vfxRearTransform",
+		"Left": "vfxLeftTransform",
+		"Right": "vfxRightTransform"
+	},
+	"HeadLights": [
+	],
+	"WeaponAttachPoints": [
+		{
+			"Name": "TopAttach",
+			"visuals": "rattler_turret_whole",
+			"attach": "weapon_attach_top_pedestal",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "FrontPodAttach",
+			"visuals": "rattler_turret_whole",
+			"attach": "weapon_attach_forward_ball",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "MissileAttach",
+			"visuals": "rattler_turret_whole",
+			"attach": "weapon_attach_missiles_side",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "AMSAttach",
+			"visuals": "rattler_turret_whole",
+			"attach": "weapon_attach_small_turret_upper",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "MGAttach",
+			"visuals": "rattler_turret_whole",
+			"attach": "weapon_attach_small_turret_lower",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		}
+	],
+	"Particles":[
+	]
+}

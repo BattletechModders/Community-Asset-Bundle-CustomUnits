@@ -1,0 +1,93 @@
+{
+  "ID": "hardpointdatadef_curattler_track_right_front",
+  "CustomHardpoints": {
+    "prefabs": [ 
+		  { "prefab": "chrprfweap_rattler_track_right_front_top_arrow4_left", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3" ],
+			"attachType": "Body", "attachOverride": "TopAttach" },
+	      { "prefab": "chrprfweap_rattler_track_right_front_top_arrow4_right", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3" ],
+			"attachType": "Body", "attachOverride": "TopAttach" },
+	      { "prefab": "chrprfweap_rattler_track_right_front_top_artillery", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+			"attachType": "Body", "attachOverride": "TopAttach" },
+	      { "prefab": "chrprfweap_rattler_track_right_front_top_barracuda", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ],
+			"attachType": "Body", "attachOverride": "TopAttach" },
+	      { "prefab": "chrprfweap_rattler_track_right_front_top_navallaser", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+			"attachType": "Body", "attachOverride": "TopAttach" },
+		  
+	      { "prefab": "chrprfweap_rattler_track_right_front_front_laser", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ], 
+			"attachType": "Body", "attachOverride": "FrontPodAttach" },
+	      { "prefab": "chrprfweap_rattler_track_right_front_front_gauss", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+			"attachType": "Body", "attachOverride": "FrontPodAttach" },
+		  
+	      { "prefab": "chrprfweap_rattler_track_right_front_side_srm12", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5", "fire6", "fire7", "fire8", "fire9", "fire10", "fire11", "fire12" ],
+			"attachType": "Body", "attachOverride": "MissileAttach" },
+	      { "prefab": "chrprfweap_rattler_track_right_front_side_lrm20", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", 
+			"emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5", "fire6", "fire7", "fire8", "fire9", "fire10", "fire11", "fire12", "fire13", "fire14", "fire15", "fire16", "fire17", "fire18", "fire19", "fire20" ],
+			"attachType": "Body", "attachOverride": "MissileAttach" },
+
+	      { "prefab": "chrprfweap_rattler_track_right_front_ams", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+			"attachType": "Body", "attachOverride": "AMSAttach" },
+	      { "prefab": "chrprfweap_rattler_track_right_front_mg", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ],
+			"attachType": "Body", "attachOverride": "MGAttach" }
+    ],
+    "aliases": {     
+		"chrPrfWeap_curattlertrackrightfront_turret_laser_eh1": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_front_laser" },
+		"chrPrfWeap_curattlertrackrightfront_turret_gauss_bh1": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_front_gauss" },
+		
+		"chrPrfWeap_curattlertrackrightfront_turret_srm12_mh2": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_side_srm12" },
+		"chrPrfWeap_curattlertrackrightfront_turret_lrm20_mh2": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_side_lrm20" },
+		
+		"chrPrfWeap_curattlertrackrightfront_turret_ams_bh3": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_ams" },
+		
+		"chrPrfWeap_curattlertrackrightfront_turret_mg_bh4": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_mg" },
+		
+		"chrPrfWeap_curattlertrackrightfront_turret_navalmissile_mh5": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_top_barracuda" },
+		"chrPrfWeap_curattlertrackrightfront_turret_navallaser_eh5": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_top_navallaser" },
+		"chrPrfWeap_curattlertrackrightfront_turret_artillery_bh5": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_top_artillery" },
+		"chrPrfWeap_curattlertrackrightfront_turret_arrow4_mh6": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_top_arrow4_left" },
+		"chrPrfWeap_curattlertrackrightfront_turret_arrow4_mh7": { "location": "turret", "prefab": "chrprfweap_rattler_track_right_front_top_arrow4_right" }	
+    }
+  },
+  "HardpointData": [
+    {
+      "location": "front",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "right",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "left",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "rear",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "turret",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    }	
+  ]
+}
