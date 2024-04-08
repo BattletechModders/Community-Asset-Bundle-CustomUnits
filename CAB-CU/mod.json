@@ -1523,6 +1523,30 @@
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_rightarm_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mech/prefabs/ambassador/chrprfweap_ambassador_rightarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_cuambassadorbase-001" },
 		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfmech_cuturhan_tank.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_ball_mlas_left.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_ball_mlas_right.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_ball_flamer_left.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_ball_flamer_right.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_ball_mg_left.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_ball_mg_right.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_side_ac_left.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_side_ac_right.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_side_srm4_left.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_side_srm4_right.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_side_lrm5_left.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_side_lrm5_right.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_flat_flamer.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_flat_mg.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_turret_flat_mlas.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_front_mg.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_front_mlas.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/turhan/chrprfweap_turhan_front_flamer.prefab", "AssetBundleName": "chrprfmech_cuturhan-tank" },
+		
 		{ "Type": "AssetBundle", "Path": "assetbundles_vehicles" },
 		{ "Type": "HardpointDataDef", "Path": "hardpoints_vehicles" },
 		{ "Type": "CustomMechRepresentationDef", "Path": "representations_vehicles" },

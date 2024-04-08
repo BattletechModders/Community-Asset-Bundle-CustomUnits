@@ -1,0 +1,106 @@
+{
+	"ID": "hardpointdatadef_cuturhan",
+	"CustomHardpoints": {
+		"IsVehicleStyleLocations": true,
+		"prefabs": [
+			{ "prefab": "chrprfweap_turhan_turret_ball_mlas_left", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_ball_mlas_right", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_ball_flamer_left", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_ball_flamer_right", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_ball_mg_left", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_ball_mg_right", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+				
+			{ "prefab": "chrprfweap_turhan_turret_side_ac_left", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_side_ac_right", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_side_srm4_left", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_side_srm4_right", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_side_lrm5_left", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_side_lrm5_right", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+				
+			{ "prefab": "chrprfweap_turhan_turret_flat_flamer", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_flat_mg", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },
+			{ "prefab": "chrprfweap_turhan_turret_flat_mlas", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "TurretAttach" },				
+
+			{ "prefab": "chrprfweap_turhan_front_mg", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "FrontAttach" },
+			{ "prefab": "chrprfweap_turhan_front_mlas", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "FrontAttach" },
+			{ "prefab": "chrprfweap_turhan_front_flamer", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+				"attachType": "Turret", "attachOverride": "FrontAttach" }
+		],
+		"aliases": {
+			"chrPrfWeap_cuturhan_turret_ac5_bh1": { "location": "turret", "prefab": "chrprfweap_turhan_turret_side_ac_left" },
+			"chrPrfWeap_cuturhan_turret_ac5_bh2": { "location": "turret", "prefab": "chrprfweap_turhan_turret_side_ac_right" },
+			"chrPrfWeap_cuturhan_turret_srm4_mh1": { "location": "turret", "prefab": "chrprfweap_turhan_turret_side_srm4_left" },
+			"chrPrfWeap_cuturhan_turret_lrm5_mh1": { "location": "turret", "prefab": "chrprfweap_turhan_turret_side_lrm5_left" },
+			"chrPrfWeap_cuturhan_turret_srm4_mh2": { "location": "turret", "prefab": "chrprfweap_turhan_turret_side_srm4_right" },
+			"chrPrfWeap_cuturhan_turret_lrm5_mh2": { "location": "turret", "prefab": "chrprfweap_turhan_turret_side_lrm5_right" },
+			
+			"chrPrfWeap_cuturhan_turret_laser_eh3": { "location": "turret", "prefab": "chrprfweap_turhan_turret_ball_mlas_left" },
+			"chrPrfWeap_cuturhan_turret_flamer_eh3": { "location": "turret", "prefab": "chrprfweap_turhan_turret_ball_flamer_left" },
+			"chrPrfWeap_cuturhan_turret_mg_bh3": { "location": "turret", "prefab": "chrprfweap_turhan_turret_ball_mg_left" },
+			
+			"chrPrfWeap_cuturhan_turret_laser_eh4": { "location": "turret", "prefab": "chrprfweap_turhan_turret_ball_mlas_right" },
+			"chrPrfWeap_cuturhan_turret_flamer_eh4": { "location": "turret", "prefab": "chrprfweap_turhan_turret_ball_flamer_right" },
+			"chrPrfWeap_cuturhan_turret_mg_bh4": { "location": "turret", "prefab": "chrprfweap_turhan_turret_ball_mg_right" },
+			
+			"chrPrfWeap_cuturhan_turret_laser_eh5": { "location": "turret", "prefab": "chrprfweap_turhan_turret_flat_mlas" },
+			"chrPrfWeap_cuturhan_turret_flamer_eh5": { "location": "turret", "prefab": "chrprfweap_turhan_turret_flat_flamer" },
+			"chrPrfWeap_cuturhan_turret_mg_bh5": { "location": "turret", "prefab": "chrprfweap_turhan_turret_flat_mg" },
+			
+			"chrPrfWeap_cuturhan_front_laser_eh1": { "location": "front", "prefab": "chrprfweap_turhan_front_mlas" },
+			"chrPrfWeap_cuturhan_front_flamer_eh1": { "location": "front", "prefab": "chrprfweap_turhan_front_flamer" },
+			"chrPrfWeap_cuturhan_front_mg_bh1": { "location": "front", "prefab": "chrprfweap_turhan_front_mg" }			
+			
+		}
+	},
+	"HardpointData": [
+		{
+			"location": "front",
+			"weapons": [
+				[]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "right",
+			"weapons": [
+				[]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "left",
+			"weapons": [
+				[]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "turret",
+			"weapons": [
+				[]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		}
+	]
+}

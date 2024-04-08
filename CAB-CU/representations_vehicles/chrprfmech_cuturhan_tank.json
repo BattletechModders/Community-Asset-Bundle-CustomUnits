@@ -1,0 +1,61 @@
+{
+	"Id": "chrprfmech_cuturhan_tank",
+	"PrefabBase": "cuturhan",
+	"SourcePrefabIdentifier": "chrPrfMech_battlemasterBase-001",
+	"SourcePrefabBase": "battlemaster",
+	"ShaderSource": "chrPrfWeap_atlas_centertorso_laser_eh1",
+	"BlipSource": "chrPrfVhcl_striker",
+	"ApplyType": "MoveBone",
+	"SupressAllMeshes": true,
+	"persistentAudioStart": "",
+	"persistentAudioStop": "",
+	"Animators": ["turhan_body_root"],
+	"TwistAnimators": ["turhan_body_root"],
+	"OnDestroy": {
+		"SuppressCombinedMesh": true,
+		"SuppressWeaponRepresentations": true,
+		"CollapseAllDestructables": true
+	},
+	"Destructibles": {
+		"Turret": {
+			"Name": "turhan_destructible",
+			"wholeObj": "turhan_whole",
+			"destroyedObj": "turhan_destroyed"
+		}
+	},
+	"CustomMouseReceiver": ["normal_h"],
+	"Attaches": {
+		"Turret": "turhan_attach_turret_main",
+		"Left": "turhan_attach_turret_main",
+		"Right": "turhan_attach_turret_main",
+		"Front": "turhan_attach_turret_main",
+		"Rear": "turhan_attach_turret_main"
+	},
+	"vfxTransforms": {
+		"Turret": "vfxTurretTransform",
+		"Front": "vfxFrontTransform",
+		"Rear": "vfxRearTransform",
+		"Left": "vfxLeftTransform",
+		"Right": "vfxRightTransform"
+	},
+	"HeadLights": [ "light1", "light2" ],
+	"WeaponsAttachPoints": [
+		{
+			"Name": "TurretAttach",
+			"visuals": "turhan_whole",
+			"attach": "turhan_attach_weapons_turret",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "FrontAttach",
+			"visuals": "turhan_whole",
+			"attach": "turhan_attach_weapons_cab",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		}
+	],
+	"Particles": []
+}
