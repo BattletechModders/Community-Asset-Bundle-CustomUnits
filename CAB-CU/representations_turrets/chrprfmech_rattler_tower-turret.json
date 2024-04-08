@@ -3,6 +3,11 @@
 	"PrefabBase": "curattler_tower",
 	"SourcePrefabIdentifier": "chrPrfMech_battlemasterBase-001",
 	"SourcePrefabBase": "battlemaster",	
+    "NestedPrefabs": [ 
+		"chrprfweap_rattler_tower_turret_barracuda", "chrprfweap_rattler_tower_turret_navallaser",
+		"chrprfweap_rattler_tower_turret_front_left_ams", "chrprfweap_rattler_tower_turret_front_right_ams", 
+		"chrprfweap_rattler_tower_turret_rear_left_ams", "chrprfweap_rattler_tower_turret_rear_right_ams", 
+	],	
 	"ShaderSource": "chrPrfWeap_atlas_centertorso_laser_eh1",
 	"BlipSource": "chrPrfVhcl_striker",
 	"ApplyType": "MoveBone",
@@ -25,11 +30,11 @@
 	},
 	"CustomMouseReceiver": [ "normal_h" ],
 	"Attaches": {
-		"Turret": "weapon_attach_center",
-		"Left": "drop_ball_turret_body",
-		"Right": "drop_ball_turret_body",
-		"Front": "drop_ball_turret_body",
-		"Rear": "drop_ball_turret_body"
+		"Turret": "rattler_turret_body",
+		"Left": "rattler_turret_body",
+		"Right": "rattler_turret_body",
+		"Front": "rattler_turret_body",
+		"Rear": "rattler_turret_body"
 	},
 	"vfxTransforms": {
 		"Turret": "vfxRotorTransform",

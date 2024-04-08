@@ -2,6 +2,14 @@ Changelog for CAB-CU
 
 -----------------------------------------------------
 
+3.3
+
+Added the Turhan APC
+
+3.2
+
+Added the Rattler and Rattler SL 
+
 3.1
 
 Added the Ambassador (yes really)

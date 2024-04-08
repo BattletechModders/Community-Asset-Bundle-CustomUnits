@@ -1,0 +1,84 @@
+{
+	"Id": "chrprfmech_rattler_chassis_rear-turret",
+	"PrefabBase": "curattler_chassis_rear",
+	"SourcePrefabIdentifier": "chrPrfMech_battlemasterBase-001",
+	"SourcePrefabBase": "battlemaster",	
+    "NestedPrefabs": [ 
+		"chrprfweap_rattler_rear_forward_left_turret_gauss", "chrprfweap_rattler_rear_forward_left_turret_laser",
+		"chrprfweap_rattler_rear_forward_right_turret_gauss", "chrprfweap_rattler_rear_forward_right_turret_laser", 
+		"chrprfweap_rattler_rear_upperdeck_left_ams", "chrprfweap_rattler_rear_upperdeck_right_ams"
+	],	
+	"ShaderSource": "chrPrfWeap_atlas_centertorso_laser_eh1",
+	"BlipSource": "chrPrfVhcl_striker",
+	"ApplyType": "MoveBone",
+	"SupressAllMeshes": true,
+	"persistentAudioStart": "",
+	"persistentAudioStop": "",
+	"Animators": [ "rattler_chassis_turret_body" ],
+	"TwistAnimators": [ "rattler_chassis_turret_body" ],
+	"OnDestroy": {
+		"SuppressCombinedMesh": true,
+		"SuppressWeaponRepresentations": true,
+		"CollapseAllDestructables": true
+	},
+	"Destructibles": {
+		"Turret": {
+			"Name": "rattler_chassis_turret_destructable",
+			"wholeObj": "rattler_chassis_turret_whole",
+			"destroyedObj": "rattler_chassis_turret_destroyed"
+		}
+	},
+	"CustomMouseReceiver": [ "normal_h" ],
+	"Attaches": {
+		"Turret": "rattler_chassis_turret_body",
+		"Left": "rattler_chassis_turret_body",
+		"Right": "rattler_chassis_turret_body",
+		"Front": "rattler_chassis_turret_body",
+		"Rear": "rattler_chassis_turret_body"
+	},
+	"vfxTransforms": {
+		"Turret": "vfxRotorTransform",
+		"Front": "vfxFrontTransform",
+		"Rear": "vfxRearTransform",
+		"Left": "vfxLeftTransform",
+		"Right": "vfxRightTransform"
+	},
+	"HeadLights": [
+	],
+	"WeaponAttachPoints": [
+		{
+			"Name": "RearUpperLeftAMS",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_rear_upperdeck_left_ams",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "RearUpperRightAMS",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_rear_upperdeck_right_ams",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "RearForwardLeftTurret",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_rear_forward_left_turret",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "RearForwardRightTurret",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_rear_forward_right_turret",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		}
+	],
+	"Particles":[
+	]
+}

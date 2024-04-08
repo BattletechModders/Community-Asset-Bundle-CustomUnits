@@ -14,8 +14,7 @@
 		  { "prefab": "chrprfweap_rattler_tower_turret_rear_left_ams", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ], 
 		  "attachType": "Body", "attachOverride": "AMSRearLeft" },
 		  { "prefab": "chrprfweap_rattler_tower_turret_rear_right_ams", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
-		  "attachType": "Body", "attachOverride": "AMSRearRight" },
-
+		  "attachType": "Body", "attachOverride": "AMSRearRight" }
     ],
     "aliases": {     
 		"chrPrfWeap_curattlertower_turret_navalmissile_mh1": { "location": "turret", "prefab": "chrprfweap_rattler_tower_turret_barracuda" },
@@ -24,8 +23,7 @@
 		"chrPrfWeap_curattlertower_turret_ams_bh3": { "location": "turret", "prefab": "chrprfweap_rattler_tower_turret_front_left_ams" },
 		"chrPrfWeap_curattlertower_turret_ams_bh4": { "location": "turret", "prefab": "chrprfweap_rattler_tower_turret_front_right_ams" },
 		"chrPrfWeap_curattlertower_turret_ams_bh5": { "location": "turret", "prefab": "chrprfweap_rattler_tower_turret_rear_left_ams" },
-		"chrPrfWeap_curattlertower_turret_ams_bh6": { "location": "turret", "prefab": "chrprfweap_rattler_tower_turret_rear_right_ams" },
-
+		"chrPrfWeap_curattlertower_turret_ams_bh6": { "location": "turret", "prefab": "chrprfweap_rattler_tower_turret_rear_right_ams" }
     }
   },
   "HardpointData": [

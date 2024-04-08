@@ -1,0 +1,71 @@
+{
+  "ID": "hardpointdatadef_curattler_chassis_left",
+  "CustomHardpoints": {
+    "prefabs": [ 
+	      { "prefab": "chrprfweap_rattler_rear_forward_left_turret_gauss", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+			"attachType": "Turret", "attachOverride": "RearForwardLeftTurret" },
+	      { "prefab": "chrprfweap_rattler_rear_forward_left_turret_laser", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ],
+			"attachType": "Turret", "attachOverride": "RearForwardLeftTurret" },
+			
+		  { "prefab": "chrprfweap_rattler_rear_forward_right_turret_gauss", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+			"attachType": "Turret", "attachOverride": "RearForwardRightTurret" },
+	      { "prefab": "chrprfweap_rattler_rear_forward_right_turret_laser", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ],
+			"attachType": "Turret", "attachOverride": "RearForwardRightTurret" },
+			
+	      { "prefab": "chrprfweap_rattler_rear_upperdeck_left_ams", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+			"attachType": "Turret", "attachOverride": "RearUpperLeftAMS" },
+	      { "prefab": "chrprfweap_rattler_rear_upperdeck_right_ams", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ],
+			"attachType": "Turret", "attachOverride": "RearUpperRightAMS" }
+    ],
+    "aliases": {     
+		"chrPrfWeap_curattlerchassisrear_rear_gauss_bh1": { "location": "turret", "prefab": "chrprfweap_rattler_rear_forward_left_turret_gauss" },
+		"chrPrfWeap_curattlerchassisrear_rear_laser_eh1": { "location": "turret", "prefab": "chrprfweap_rattler_rear_forward_left_turret_laser" },
+		"chrPrfWeap_curattlerchassisrear_rear_gauss_bh2": { "location": "turret", "prefab": "chrprfweap_rattler_rear_forward_right_turret_gauss" },
+		"chrPrfWeap_curattlerchassisrear_rear_laser_eh2": { "location": "turret", "prefab": "chrprfweap_rattler_rear_forward_right_turret_laser" },
+		"chrPrfWeap_curattlerchassisrear_rear_ams_bh3": { "location": "turret", "prefab": "chrprfweap_rattler_rear_upperdeck_left_ams" },
+		"chrPrfWeap_curattlerchassisrear_rear_ams_bh4": { "location": "turret", "prefab": "chrprfweap_rattler_rear_upperdeck_right_ams" },	
+    }
+  },
+  "HardpointData": [
+    {
+      "location": "front",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "right",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "left",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "rear",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "turret",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    }	
+  ]
+}

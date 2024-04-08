@@ -3,14 +3,22 @@
 	"PrefabBase": "curattler_track_left_front",
 	"SourcePrefabIdentifier": "chrPrfMech_battlemasterBase-001",
 	"SourcePrefabBase": "battlemaster",
+    "NestedPrefabs": [ 
+		"chrprfweap_rattler_track_left_front_top_arrow4_left", "chrprfweap_rattler_track_left_front_top_arrow4_right",
+		"chrprfweap_rattler_track_left_front_top_artillery", 
+		"chrprfweap_rattler_track_left_front_top_barracuda", "chrprfweap_rattler_track_left_front_top_navallaser", 
+		"chrprfweap_rattler_track_left_front_front_laser", "chrprfweap_rattler_track_left_front_front_gauss", 
+		"chrprfweap_rattler_track_left_front_side_srm12", "chrprfweap_rattler_track_left_front_side_lrm20", 
+		"chrprfweap_rattler_track_left_front_ams", "chrprfweap_rattler_track_left_front_mg"
+	],	
 	"ShaderSource": "chrPrfWeap_atlas_centertorso_laser_eh1",
 	"BlipSource": "chrPrfVhcl_striker",
 	"ApplyType": "MoveBone",
 	"SupressAllMeshes": true,
 	"persistentAudioStart": "",
 	"persistentAudioStop": "",
-	"Animators": [ "rattler_turret_body" ],
-	"TwistAnimators": [ "rattler_turret_body" ],
+	"Animators": [ "weapon_attach_points" ],
+	"TwistAnimators": [ "weapon_attach_points" ],
 	"OnDestroy": {
 		"SuppressCombinedMesh": true,
 		"SuppressWeaponRepresentations": true,
@@ -25,11 +33,11 @@
 	},
 	"CustomMouseReceiver": [ "normal_h" ],
 	"Attaches": {
-		"Turret": "weapon_attach_center",
-		"Left": "drop_ball_turret_body",
-		"Right": "drop_ball_turret_body",
-		"Front": "drop_ball_turret_body",
-		"Rear": "drop_ball_turret_body"
+		"Turret": "rattler_turret_body",
+		"Left": "rattler_turret_body",
+		"Right": "rattler_turret_body",
+		"Front": "rattler_turret_body",
+		"Rear": "rattler_turret_body"
 	},
 	"vfxTransforms": {
 		"Turret": "vfxTurretTransform",

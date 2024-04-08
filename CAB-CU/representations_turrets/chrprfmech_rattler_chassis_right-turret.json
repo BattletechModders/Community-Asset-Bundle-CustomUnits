@@ -1,0 +1,120 @@
+{
+	"Id": "chrprfmech_rattler_chassis_right-turret",
+	"PrefabBase": "curattler_chassis_right",
+	"SourcePrefabIdentifier": "chrPrfMech_battlemasterBase-001",
+	"SourcePrefabBase": "battlemaster",	
+    "NestedPrefabs": [ 
+		"chrprfweap_rattler_right_lower_front_missile_lrm20", "chrprfweap_rattler_right_lower_front_missile_srm12",
+		"chrprfweap_rattler_right_lower_rear_missile_lrm20", "chrprfweap_rattler_right_lower_rear_missile_srm12", 
+		"chrprfweap_rattler_right_upper_front_missiles_lrm20", "chrprfweap_rattler_right_upper_front_missiles_srm12", 
+		"chrprfweap_rattler_right_upper_rear_missiles_lrm20", "chrprfweap_rattler_right_upper_rear_missiles_srm12", 
+		"chrprfweap_rattler_right_under_front_mg", "chrprfweap_rattler_right_under_rear_mg", 
+		"chrprfweap_rattler_right_upper_front_turret_gauss", "chrprfweap_rattler_right_upper_front_turret_laser", 
+		"chrprfweap_rattler_right_upper_rear_turret_gauss", "chrprfweap_rattler_right_upper_rear_turret_laser"
+	],
+	"ShaderSource": "chrPrfWeap_atlas_centertorso_laser_eh1",
+	"BlipSource": "chrPrfVhcl_striker",
+	"ApplyType": "MoveBone",
+	"SupressAllMeshes": true,
+	"persistentAudioStart": "",
+	"persistentAudioStop": "",
+	"Animators": [ "rattler_chassis_turret_body" ],
+	"TwistAnimators": [ "rattler_chassis_turret_body" ],
+	"OnDestroy": {
+		"SuppressCombinedMesh": true,
+		"SuppressWeaponRepresentations": true,
+		"CollapseAllDestructables": true
+	},
+	"Destructibles": {
+		"Turret": {
+			"Name": "rattler_chassis_turret_destructable",
+			"wholeObj": "rattler_chassis_turret_whole",
+			"destroyedObj": "rattler_chassis_turret_destroyed"
+		}
+	},
+	"CustomMouseReceiver": [ "normal_h" ],
+	"Attaches": {
+		"Turret": "rattler_chassis_turret_body",
+		"Left": "rattler_chassis_turret_body",
+		"Right": "rattler_chassis_turret_body",
+		"Front": "rattler_chassis_turret_body",
+		"Rear": "rattler_chassis_turret_body"
+	},
+	"vfxTransforms": {
+		"Turret": "vfxRotorTransform",
+		"Front": "vfxFrontTransform",
+		"Rear": "vfxRearTransform",
+		"Left": "vfxLeftTransform",
+		"Right": "vfxRightTransform"
+	},
+	"HeadLights": [
+	],
+	"WeaponAttachPoints": [
+		{
+			"Name": "RightUpperFrontMissile",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_right_upper_front_missiles",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "RightUpperRearMissile",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_right_upper_rear_missiles",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "RightUpperFrontTurret",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_right_upper_front_turret",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "RightUpperRearTurret",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_right_upper_rear_turret",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "RightLowerFrontMissile",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_right_lower_front_missile",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "RightLowerRearMissile",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_right_lower_rear_missile",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "RightUnderFront",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_right_under_front",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		},
+		{
+			"Name": "RightUnderRear",
+			"visuals": "rattler_whole",
+			"attach": "weapons_attach_right_under_rear",
+			"type": "Turret",
+			"hideIfEmpty": false,
+			"Animators": {}
+		}
+	],
+	"Particles":[
+	]
+}
