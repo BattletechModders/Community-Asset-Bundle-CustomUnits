@@ -2,6 +2,10 @@ Changelog for CAB-CU
 
 -----------------------------------------------------
 
+3.4
+
+Added the Ifrit VTOL
+
 3.3
 
 Added the Turhan APC

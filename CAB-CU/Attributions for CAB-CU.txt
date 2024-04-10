@@ -57,6 +57,10 @@ Dragoon (Frost import, Shade model and textures)
 Great Turtle (Frost import and model, Shade textures)
 Kiso Constructionmech (Frost import/textures/animations, Shade model)
 
+FrostRaptor and OnlyQ
+Models:
+Ifrit VTOL (Frost import and textures, OnlyQ model)
+
 Lukkar on DeviantArt
 Assets:
 https://www.deviantart.com/lukkar/art/Skywind-fresco-470893972 

@@ -1,0 +1,52 @@
+{
+	"Id": "chrprfmech_ifrit_vtol",
+	"PrefabBase": "cuifrit",
+	"SourcePrefabIdentifier": "chrPrfMech_battlemasterBase-001",
+	"SourcePrefabBase": "battlemaster",
+	"ShaderSource": "chrPrfWeap_atlas_centertorso_laser_eh1",
+	"BlipSource": "chrPrfVhcl_striker",
+	"ApplyType": "MoveBone",
+	"SupressAllMeshes": true,
+	"persistentAudioStart": "",
+	"persistentAudioStop": "",
+	"Animators": [ "ifrit_body" ],
+	"TwistAnimators": [ "ifrit_body" ],
+	"OnDestroy": {
+		"SuppressCombinedMesh": true,
+		"SuppressWeaponRepresentations": true,
+		"CollapseAllDestructables": true
+	},
+	"Destructibles": {
+		"Turret": {
+			"Name": "ifrit_destructable",
+			"wholeObj": "ifrit_whole",
+			"destroyedObj": "ifrit_destroyed"
+		}
+	},
+	"CustomMouseReceiver": [ "normal_h" ],
+	"Attaches": {
+		"Turret": "ifrit_attach_front_gun",
+		"Left": "ifrit_attach_wing_left",
+		"Right": "ifrit_attach_wing_right",
+		"Front": "ifrit_attach_front_gun",
+		"Rear": "ifrit_attach_front_gun"
+	},
+	"vfxTransforms": {
+		"Turret": "vfxRotorTransform",
+		"Front": "vfxFrontTransform",
+		"Rear": "vfxRearTransform",
+		"Left": "vfxLeftTransform",
+		"Right": "vfxRightTransform"
+	},
+	"HeadLights": [
+	],
+	"WeaponAttachPoints": [
+	],
+	"Particles":[
+		{ "object_name":"jet col_light_bea_f_t_left", "location": "None" },
+		{ "object_name":"jet col_light_bea_f_t_right", "location": "None" },
+		{ "object_name":"jet col_light_bea_r_b_left", "location": "None" },
+		{ "object_name":"jet col_light_bea_r_b_right", "location": "None" },
+		{ "object_name":"jet col_light_bea_r_top", "location": "None" }
+	]
+}

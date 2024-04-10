@@ -1674,7 +1674,16 @@
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/rattler/track_rr/chrprfweap_rattler_track_right_rear_side_lrm20.prefab", "AssetBundleName": "chrprfmech_rattler_track_right_rear-turret" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/rattler/track_rr/chrprfweap_rattler_track_right_rear_side_srm12.prefab", "AssetBundleName": "chrprfmech_rattler_track_right_rear-turret" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/rattler/track_rr/chrprfweap_rattler_track_right_rear_ams.prefab", "AssetBundleName": "chrprfmech_rattler_track_right_rear-turret" },
-		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/rattler/track_rr/chrprfweap_rattler_track_right_rear_mg.prefab", "AssetBundleName": "chrprfmech_rattler_track_right_rear-turret" }
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/rattler/track_rr/chrprfweap_rattler_track_right_rear_mg.prefab", "AssetBundleName": "chrprfmech_rattler_track_right_rear-turret" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfmech_ifrit_vtol.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_center_ac5.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_left_aam_inner.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_left_aam_outer.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_left_missile_box.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_right_aam_inner.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_right_aam_outer.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" }
 
   ]
 }

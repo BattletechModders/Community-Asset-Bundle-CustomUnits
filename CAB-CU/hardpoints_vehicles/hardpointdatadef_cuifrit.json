@@ -1,0 +1,56 @@
+{
+  "ID": "hardpointdatadef_cuifrit",
+  "CustomHardpoints": {
+	"IsVehicleStyleLocations":true,
+    "prefabs": [ 
+	
+      { "prefab": "chrprfweap_ifrit_center_ac5", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+      
+	  { "prefab": "chrprfweap_ifrit_left_aam_inner", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3" ] },
+	  { "prefab": "chrprfweap_ifrit_left_aam_outer", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3" ] },
+	  { "prefab": "chrprfweap_ifrit_left_missile_box", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ] },
+
+	  { "prefab": "chrprfweap_ifrit_right_aam_inner", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3" ] },
+	  { "prefab": "chrprfweap_ifrit_right_aam_outer", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3" ] },
+	  { "prefab": "chrprfweap_ifrit_right_missile_box", "shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ] }
+  
+    ],
+    "aliases": {
+      "chrPrfWeap_cuifrit_center_ac5_eh1": { "location": "front", "prefab": "chrprfweap_ifrit_center_ac5" },
+      
+	  "chrPrfWeap_cuifrit_left_srm4_mh1": { "location": "left", "prefab": "chrprfweap_ifrit_left_aam_inner" },
+	  "chrPrfWeap_cuifrit_left_srm4_mh2": { "location": "left", "prefab": "chrprfweap_ifrit_left_aam_outer" },
+	  "chrPrfWeap_cuifrit_left_srm4_mh3": { "location": "left", "prefab": "chrprfweap_ifrit_left_missile_box" },
+	  
+	  "chrPrfWeap_cuifrit_right_srm4_mh1": { "location": "right", "prefab": "chrprfweap_ifrit_right_aam_inner" },
+	  "chrPrfWeap_cuifrit_right_srm4_mh2": { "location": "right", "prefab": "chrprfweap_ifrit_right_aam_outer" },
+	  "chrPrfWeap_cuifrit_right_srm4_mh3": { "location": "right", "prefab": "chrprfweap_ifrit_right_missile_box" }      
+    }
+  },
+  "HardpointData": [
+    {
+      "location": "front",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "right",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "left",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    }
+  ]
+}
