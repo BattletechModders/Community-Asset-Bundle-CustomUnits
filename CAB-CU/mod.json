@@ -1682,6 +1682,7 @@
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_left_aam_inner.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_left_aam_outer.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_left_missile_box.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_right_missile_box.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_right_aam_inner.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" },
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/ifrit/chrprfweap_ifrit_right_aam_outer.prefab", "AssetBundleName": "chrprfmech_ifrit-vtol" }
 
