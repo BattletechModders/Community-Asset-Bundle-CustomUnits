@@ -6,7 +6,7 @@
     "NestedPrefabs": [ 
 		"chrprfweap_rattler_tower_turret_barracuda", "chrprfweap_rattler_tower_turret_navallaser",
 		"chrprfweap_rattler_tower_turret_front_left_ams", "chrprfweap_rattler_tower_turret_front_right_ams", 
-		"chrprfweap_rattler_tower_turret_rear_left_ams", "chrprfweap_rattler_tower_turret_rear_right_ams", 
+		"chrprfweap_rattler_tower_turret_rear_left_ams", "chrprfweap_rattler_tower_turret_rear_right_ams" 
 	],	
 	"ShaderSource": "chrPrfWeap_atlas_centertorso_laser_eh1",
 	"BlipSource": "chrPrfVhcl_striker",
