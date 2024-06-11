@@ -47,7 +47,7 @@
 		"btlight_front_left", "btlight_front_right",
 		"btlight_left_forward", "btlight_left_rear",
 		"btlight_right_forward", "btlight_right_rear",
-		"btlight_rear_left", "btlight_rear_right",
+		"btlight_rear_left", "btlight_rear_right"
 	],
 	"WeaponAttachPoints": [
 		{
