@@ -2,6 +2,10 @@ Changelog for CAB-CU
 
 -----------------------------------------------------
 
+3.5
+
+Added the Celerity Ultralight Quad
+
 3.4
 
 Added the Ifrit VTOL

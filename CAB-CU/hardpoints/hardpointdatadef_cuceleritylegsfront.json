@@ -1,0 +1,47 @@
+{
+  "ID": "hardpointdatadef_cuceleritylegsfront",
+  "HardpointData": [
+    {
+      "Location": "head",
+      "weapons": [
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "centertorso",
+      "weapons": [
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "leftarm",
+      "weapons": [
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "lefttorso",
+      "weapons": [
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "rightarm",
+      "weapons": [
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "righttorso",
+      "weapons": [
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    }
+  ]
+}

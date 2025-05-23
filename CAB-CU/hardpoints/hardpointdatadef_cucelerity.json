@@ -1,0 +1,185 @@
+{
+  "ID": "hardpointdatadef_cucelerity",
+  "CustomHardpoints": {
+    "prefabs": [
+		{"prefab": "chrprfweap_cucelerity_laser_head_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_laser_head_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_gauss_head_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_gauss_head_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_flamer_head_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_flamer_head_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_mg_head_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_mg_head_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },			
+
+		{"prefab": "chrprfweap_cucelerity_laser_centertorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_laser_centertorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_gauss_centertorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_gauss_centertorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_flamer_centertorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_flamer_centertorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_mg_centertorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_mg_centertorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+
+		{"prefab": "chrprfweap_cucelerity_laser_lefttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_laser_lefttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_gauss_lefttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_gauss_lefttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_flamer_lefttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_flamer_lefttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_mg_lefttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_mg_lefttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },			
+		{"prefab": "chrprfweap_cucelerity_srm2_lefttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ] },			
+		{"prefab": "chrprfweap_cucelerity_srm2_lefttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ] },			
+		{"prefab": "chrprfweap_cucelerity_lrm5_lefttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5" ] },
+		{"prefab": "chrprfweap_cucelerity_lrm5_lefttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5" ] },
+			
+		{"prefab": "chrprfweap_cucelerity_laser_righttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_laser_righttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_gauss_righttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_gauss_righttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_flamer_righttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_flamer_righttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_mg_righttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },
+		{"prefab": "chrprfweap_cucelerity_mg_righttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1" ] },			
+		{"prefab": "chrprfweap_cucelerity_srm2_righttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ] },			
+		{"prefab": "chrprfweap_cucelerity_srm2_righttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2" ] },			
+		{"prefab": "chrprfweap_cucelerity_lrm5_righttorso_1", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5" ] },
+		{"prefab": "chrprfweap_cucelerity_lrm5_righttorso_2", "attachOverride":"TAPMainCenter", "attachType": "Turret", 
+			"shaderSrc": "chrPrfWeap_atlas_centertorso_laser_eh1", "emitters": [ "fire1", "fire2", "fire3", "fire4", "fire5" ] }
+    ],
+    "aliases": {
+		"chrPrfWeap_cucelerity_head_laser_eh1": { "location": "head", "prefab": "chrprfweap_cucelerity_laser_head_1" },
+		"chrPrfWeap_cucelerity_head_laser_eh2": { "location": "head", "prefab": "chrprfweap_cucelerity_laser_head_2" },
+		"chrPrfWeap_cucelerity_head_gauss_eh1": { "location": "head", "prefab": "chrprfweap_cucelerity_gauss_head_1" },
+		"chrPrfWeap_cucelerity_head_gauss_eh2": { "location": "head", "prefab": "chrprfweap_cucelerity_gauss_head_2" },
+		"chrPrfWeap_cucelerity_head_flamer_eh1": { "location": "head", "prefab": "chrprfweap_cucelerity_flamer_head_1" },
+		"chrPrfWeap_cucelerity_head_flamer_eh2": { "location": "head", "prefab": "chrprfweap_cucelerity_flamer_head_2" },
+		"chrPrfWeap_cucelerity_head_mg_bh1": { "location": "head", "prefab": "chrprfweap_cucelerity_mg_head_1" },
+		"chrPrfWeap_cucelerity_head_mg_bh2": { "location": "head", "prefab": "chrprfweap_cucelerity_mg_head_2" },
+		
+		"chrPrfWeap_cucelerity_centertorso_laser_eh1": { "location": "centertorso", "prefab": "chrprfweap_cucelerity_laser_centertorso_1" },
+		"chrPrfWeap_cucelerity_centertorso_laser_eh2": { "location": "centertorso", "prefab": "chrprfweap_cucelerity_laser_centertorso_2" },
+		"chrPrfWeap_cucelerity_centertorso_gauss_eh1": { "location": "centertorso", "prefab": "chrprfweap_cucelerity_gauss_centertorso_1" },
+		"chrPrfWeap_cucelerity_centertorso_gauss_eh2": { "location": "centertorso", "prefab": "chrprfweap_cucelerity_gauss_centertorso_2" },
+		"chrPrfWeap_cucelerity_centertorso_flamer_eh1": { "location": "centertorso", "prefab": "chrprfweap_cucelerity_flamer_centertorso_1" },
+		"chrPrfWeap_cucelerity_centertorso_flamer_eh2": { "location": "centertorso", "prefab": "chrprfweap_cucelerity_flamer_centertorso_2" },
+		"chrPrfWeap_cucelerity_centertorso_mg_bh1": { "location": "centertorso", "prefab": "chrprfweap_cucelerity_mg_centertorso_1" },
+		"chrPrfWeap_cucelerity_centertorso_mg_bh2": { "location": "centertorso", "prefab": "chrprfweap_cucelerity_mg_centertorso_2" },
+
+		"chrPrfWeap_cucelerity_lefttorso_laser_eh1": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_laser_lefttorso_1" },
+		"chrPrfWeap_cucelerity_lefttorso_laser_eh2": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_laser_lefttorso_2" },
+		"chrPrfWeap_cucelerity_lefttorso_gauss_eh1": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_gauss_lefttorso_1" },
+		"chrPrfWeap_cucelerity_lefttorso_gauss_eh2": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_gauss_lefttorso_2" },
+		"chrPrfWeap_cucelerity_lefttorso_flamer_eh1": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_flamer_lefttorso_1" },
+		"chrPrfWeap_cucelerity_lefttorso_flamer_eh2": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_flamer_lefttorso_2" },
+		"chrPrfWeap_cucelerity_lefttorso_mg_bh1": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_mg_lefttorso_1" },
+		"chrPrfWeap_cucelerity_lefttorso_mg_bh2": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_mg_lefttorso_2" },
+		"chrPrfWeap_cucelerity_lefttorso_srm2_mh1": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_srm2_lefttorso_1" },
+		"chrPrfWeap_cucelerity_lefttorso_srm2_mh2": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_srm2_lefttorso_2" },
+		"chrPrfWeap_cucelerity_lefttorso_lrm5_mh1": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_lrm5_lefttorso_1" },
+		"chrPrfWeap_cucelerity_lefttorso_lrm5_mh2": { "location": "lefttorso", "prefab": "chrprfweap_cucelerity_lrm5_lefttorso_2" },
+
+		"chrPrfWeap_cucelerity_righttorso_laser_eh1": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_laser_righttorso_1" },
+		"chrPrfWeap_cucelerity_righttorso_laser_eh2": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_laser_righttorso_2" },
+		"chrPrfWeap_cucelerity_righttorso_gauss_eh1": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_gauss_righttorso_1" },
+		"chrPrfWeap_cucelerity_righttorso_gauss_eh2": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_gauss_righttorso_2" },
+		"chrPrfWeap_cucelerity_righttorso_flamer_eh1": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_flamer_righttorso_1" },
+		"chrPrfWeap_cucelerity_righttorso_flamer_eh2": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_flamer_righttorso_2" },
+		"chrPrfWeap_cucelerity_righttorso_mg_bh1": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_mg_righttorso_1" },
+		"chrPrfWeap_cucelerity_righttorso_mg_bh2": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_mg_righttorso_2" },
+		"chrPrfWeap_cucelerity_righttorso_srm2_mh1": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_srm2_righttorso_1" },
+		"chrPrfWeap_cucelerity_righttorso_srm2_mh2": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_srm2_righttorso_2" },
+		"chrPrfWeap_cucelerity_righttorso_lrm5_mh1": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_lrm5_righttorso_1" },
+		"chrPrfWeap_cucelerity_righttorso_lrm5_mh2": { "location": "righttorso", "prefab": "chrprfweap_cucelerity_lrm5_righttorso_2" }
+    }
+  },
+  "HardpointData": [
+    {
+      "location": "lefttorso",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "righttorso",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "centertorso",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "head",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "rightarm",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "location": "leftarm",
+      "weapons": [
+        []
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    }
+  ]
+}
